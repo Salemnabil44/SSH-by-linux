@@ -47,3 +47,5 @@ Pour installer SSH sur Ubuntu, vous pouvez suivre ces étapes :
    Remplacez `username` par votre nom d'utilisateur et `ip_address` par l'adresse IP de votre serveur Ubuntu.
 
 En suivant ces étapes, vous devriez être en mesure d'installer et de configurer SSH sur votre système Ubuntu.
+
+Exit pour rompre la connexion
